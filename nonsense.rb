@@ -6,5 +6,5 @@ def word_count(sentence)
   sentence.split(" ").size
 end
 
-word_count("The quick brown fox")
+
 binding.pry
