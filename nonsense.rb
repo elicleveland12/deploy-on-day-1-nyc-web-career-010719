@@ -8,4 +8,4 @@ def hate_steven?(name)
   end
 end
 
-hate_steven?(Steven)
+hate_steven?("Steven")
