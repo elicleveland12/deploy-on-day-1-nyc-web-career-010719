@@ -6,9 +6,9 @@ require 'pry'
 #   sentence.split(" ").size
 # end
 
-def rude_greeting(name=nil)
- name ||= "you jerk"
- puts "Hey there, #{name}"
-end
+# def rude_greeting(name=nil)
+# name ||= "you jerk"
+# puts "Hey there, #{name}"
+# end
 
-binding.pry
+# binding.pry
