@@ -7,3 +7,4 @@ def word_count(sentence)
 end
 
 word_count("The quick brown fox")
+binding.pry
