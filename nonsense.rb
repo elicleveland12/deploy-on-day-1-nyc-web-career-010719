@@ -5,7 +5,7 @@ def hate_steven?(name)
     "OMG He's the worst"
   else
     "You cool"
-    binding.pry
   end
 end
 
+hate_steven?(Steven)
